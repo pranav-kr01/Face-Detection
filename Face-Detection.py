@@ -314,7 +314,7 @@ plt.imshow(convertToRGB(faces_detected_img))
 
 # load cascade classifier training file for lbpcascade
 lbp_face_cascade = cv2.CascadeClassifier('data/lbpcascade_frontalface.xml')
-
+hello coderabbit wassup man
 # load test image
 test2 = cv2.imread('data/test2.jpg')
 # call our function to detect faces
