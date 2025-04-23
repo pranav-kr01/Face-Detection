@@ -291,7 +291,7 @@ plt.imshow(convertToRGB(faces_detected_img))
 # parameter. For example, `scaleFactor=1.2` improved the results. 
 
 # In[10]:
-
+# This code detects faces using OpenCV.
 # load another image
 test2 = cv2.imread('data/test4.jpg')
 
