@@ -1,6 +1,10 @@
 
 # Face Detection In Python Using OpenCV
+<<<<<<< HEAD
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/pranav-kr01/Face-Detection?utm_source=oss&utm_medium=github&utm_campaign=pranav-kr01%2FFace-Detection&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+=======
+
+>>>>>>> origin/master
 ## OpenCV
 
 OpenCV is an open source computer vision and machine learning software library. It is a BSD-licence product thus free for both business and academic purposes.The Library provides more than 2500 algorithms that include machine learning tools for classification and clustering, image processing and vision algorithm, basic algorithms and drawing functions, GUI and I/O functions for images and videos. Some applications of these algorithms include face detection, object recognition, extracting 3D models, image processing, camera calibration, motion analysis etc.
