@@ -314,7 +314,6 @@ plt.imshow(convertToRGB(faces_detected_img))
 
 # load cascade classifier training file for lbpcascade
 lbp_face_cascade = cv2.CascadeClassifier('data/lbpcascade_frontalface.xml')
-hello coderabbit wassup man
 # load test image
 test2 = cv2.imread('data/test2.jpg')
 # call our function to detect faces
@@ -336,7 +335,7 @@ faces_detected_img = detect_faces(lbp_face_cascade, test2)
 plt.imshow(convertToRGB(faces_detected_img))
 
 # ## Haar and LBP Results Analysis
-
+sqdwefreg
 # We will run both `Haar` and `LBP` on test images to see accuracy and time delay of each.
 
 # In[13]:
